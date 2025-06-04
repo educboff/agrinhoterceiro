@@ -1,0 +1,21 @@
+body { 
+    text-align: center; 
+    font-family: Arial, sans-serif; 
+    margin-top: 50px;
+ }
+.botao-icone { 
+    font-size: 2rem;
+     padding: 10px;
+      border: 2px solid black;
+      cursor: pointer;
+      border-radius: 8px; 
+    }
+
+.botao-icone:focus { 
+    outline: 3px solid blue;
+ }
+#botao-zoom {
+     margin-top: 20px; 
+     padding: 10px;
+    cursor:pointer; 
+    }
